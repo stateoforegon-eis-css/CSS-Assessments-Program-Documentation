@@ -239,7 +239,7 @@ Incident response documentation should include, at a minimum, the following info
     - Minimum information to be reported in the event of a security incident
 -	Date of last review & update to the incident response documentation
 
-## GV54: Most recent external penetration test report for the organization ##
+## GV54: Most Recent External Penetration Test Report for the Organization ##
 
 Penetration testing is a security exercise where a cyber-security expert attempts to find and exploit vulnerabilities in a computer system. The purpose of this simulated attack is to identify any weaknesses in a system’s defenses which attackers could exploit.  Agencies may redact any information they do not wish to share with this assessment.
 
